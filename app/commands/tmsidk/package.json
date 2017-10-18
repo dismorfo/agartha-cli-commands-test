@@ -1,0 +1,8 @@
+{
+  "name": "tmsidk",
+  "version": "0.0.1",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "audio-speaker": "^1.4.3"
+  }
+}
